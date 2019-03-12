@@ -7,3 +7,6 @@ https://examples.javacodegeeks.com/enterprise-java/jws/jax-ws-client-example/
 
 
 
+https://dzone.com/articles/meet-bitbucket-pipes-30-ways-to-automate-your-cicd
+
+
